@@ -19,6 +19,7 @@ const Footer = () => {
             <i className="fa fa-angle-up fa-2x" aria-hidden="true" />
           </Link>
         </span>
+        <div>Copyright © 2020 Asane Portfolio All Rights Reserved.</div>
         <div className="social-links">
           {networks &&
             networks.map((network) => {
