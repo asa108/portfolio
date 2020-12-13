@@ -26,7 +26,7 @@ export const aboutData = {
     '仕事内容は、サイトのスタイル修正、React.js または Vue.jsを利用したwebサービスのバグ修正・スタイル修正、インスタグラム運用、機械学習になります。',
   paragraphFour:
     '2021年4月に、アメリカへ行く予定で、リモートで働かせていただける企業様を探しています。その他仕事の依頼もお待ちしております。',
-  paragraphFive: '使用可能な言語 : HTML / CSS / Java Script /React.js / Vue.js',
+  paragraphFive: '使用可能な言語 : HTML / CSS / Java Script / React.js / Vue.js',
   paragraphSix:
     'その他 : Github / Photoshop / illustrator / 動画編集 / 英語訳・和訳 / 英会話 / SNS運用 / アパレルブランド運営',
   // resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
