@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'portfolio.jpg',
   paragraphOne:
     '沖縄生まれ沖縄育ちの屋良 朝音です。琉球大学の4年次で経済学を学んでいます。米軍アメリカ人の旦那と結婚し、世界中どこにいても働けるスキル身につけたくてプログラミングをはじめました。',
   paragraphTwo:
