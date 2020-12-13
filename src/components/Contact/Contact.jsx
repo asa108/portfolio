@@ -16,7 +16,7 @@ const Contact = () => {
           <div className="contact-wrapper">
             <p className="contact-wrapper__text">
               {cta ||
-                'webサイト制作、英訳・和訳、動画編集、その他の依頼を承っています。下記よりお問い合わせください。'}
+                'webサイト制作、英訳・和訳、動画編集、その他の依頼を承っています。下記よりお問い合わせください。 '}
             </p>
             <a
               target="_blank"
