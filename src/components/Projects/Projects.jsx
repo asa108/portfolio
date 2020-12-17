@@ -26,7 +26,6 @@ const Projects = () => {
     <section id="projects">
       <Container>
         <div className="project-wrapper">
-          <div className="project_sub_title">個人で請け負った案件の紹介になります。</div>
           <Title title="作成サイト" />
           {projects.map((project) => {
             const { title, info, info2, url, repo, img, id } = project;
