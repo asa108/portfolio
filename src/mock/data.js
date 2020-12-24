@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'portfolio.jpg',
   paragraphOne:
-    '沖縄生まれ沖縄育ちのAsaneです。米軍アメリカ人と結婚し、世界中どこにいても働けるスキル身につけたくてプログラミングをはじめました。',
+    '沖縄生まれ沖縄育ちのAsaneです。',
   paragraphTwo:
     'プログラミングスクールで基礎を学習後、2019年12月からVR・ARを用いたwebサービス開発会社で働きはじめてちょうど１年が経ちました。現在も働かせて頂いてます。',
   paragraphThree:
