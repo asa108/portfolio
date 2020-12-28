@@ -28,7 +28,7 @@ export const aboutData = {
     '2021年4月に、アメリカへ行く予定で、リモートで働かせていただける企業様を探しています。その他仕事の依頼もお待ちしております。',
   paragraphFive: '使用可能な言語 : HTML / CSS / Java Script / React.js / Vue.js',
   paragraphSix:
-    'その他 : Github / Photoshop / illustrator / 英語訳・和訳 / 英会話 / 動画編集 / SNS運用 / アパレルブランド運営(ECサイト運営)',
+    'その他 : Github / Photoshop / illustrator / Adobe XD / 英語訳・和訳 / 英会話 / 動画編集 / SNS運用 / アパレルブランド運営(ECサイト運営)',
   // resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
