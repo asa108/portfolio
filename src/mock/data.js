@@ -38,7 +38,7 @@ export const projectsData = [
            id: 1,
            img: 'work1.png',
            title: 'EC site Crown Clothing',
-           info: 'React.js / Redux / firebase / レスポンシブ',
+           info: 'React.js / Redux / firebase / stripe / レスポンシブ',
            info2: '',
            url: 'https://admiring-northcutt-c8f1f2.netlify.app',
            // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
