@@ -34,43 +34,52 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
-  {
-    id: nanoid(),
-    img: 'misaki.jpg',
-    title: '美崎牛 高原店',
-    info: 'レスポンシブ / NoCode / 写真・動画は作成してません',
-    info2: '',
-    url: 'https://misakigyutakahara.studio.site',
-    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'churahime_logo.JPG',
-    title: '美ら姫',
-    info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
-    info2: '',
-    url: 'https://okinawaizakayachurahime.studio.site',
-    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'ryuseki.JPG',
-    title: '琉成工業',
-    info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
-    info2: '',
-    url: 'https://ryuseikougyo.studio.site',
-    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'barsmile_logo.jpeg',
-    title: 'Bar Smile',
-    info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
-    info2: '',
-    url: 'https://barsmile.studio.site',
-    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-];
+         {
+           id: 1,
+           img: 'work1.png',
+           title: 'EC site Crown Clothing',
+           info: 'React.js / Redux / firebase / レスポンシブ',
+           info2: '',
+           url: 'https://admiring-northcutt-c8f1f2.netlify.app',
+           // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+         },
+         {
+           id: 2,
+           img: 'misaki.jpg',
+           title: '美崎牛 高原店',
+           info: 'レスポンシブ / NoCode / 写真・動画は作成してません',
+           info2: '',
+           url: 'https://misakigyutakahara.studio.site',
+           // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+         },
+         {
+           id: 3,
+           img: 'churahime_logo.JPG',
+           title: '美ら姫',
+           info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
+           info2: '',
+           url: 'https://okinawaizakayachurahime.studio.site',
+           // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+         },
+         {
+           id: 4,
+           img: 'ryuseki.JPG',
+           title: '琉成工業',
+           info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
+           info2: '',
+           url: 'https://ryuseikougyo.studio.site',
+           // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+         },
+         {
+           id: 5,
+           img: 'barsmile_logo.jpeg',
+           title: 'Bar Smile',
+           info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
+           info2: '',
+           url: 'https://barsmile.studio.site',
+           // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+         },
+       ];
 
 // CONTACT DATA
 export const contactData = {
