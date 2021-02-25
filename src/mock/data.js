@@ -41,7 +41,8 @@ export const projectsData = [
            info: 'React.js / Redux / firebase / stripe / レスポンシブ',
            info2: '',
            url: 'https://admiring-northcutt-c8f1f2.netlify.app',
-           // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+           repo: 'https://github.com/asa108/crown-clothing',
+           // if no repo, the button will not show up
          },
          {
            id: 2,
