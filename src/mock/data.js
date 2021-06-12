@@ -46,6 +46,16 @@ export const projectsData = [
          },
          {
            id: 2,
+           img: 'getoff.jpg',
+           title: '退勤時間がわかるアプリ',
+           info: 'React.js / ReactUi / レスポンシブ',
+           info2: '',
+           url: 'https://clever-gates-c16679.netlify.app/',
+           repo: 'https://github.com/asa108/work-time',
+           // if no repo, the button will not show up
+         },
+         {
+           id: 3,
            img: 'misaki.jpg',
            title: '美崎牛 高原店',
            info: 'レスポンシブ / NoCode / 写真・動画は作成してません',
@@ -54,7 +64,7 @@ export const projectsData = [
            // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
          },
          {
-           id: 3,
+           id: 4,
            img: 'churahime_logo.JPG',
            title: '美ら姫',
            info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
@@ -63,7 +73,7 @@ export const projectsData = [
            // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
          },
          {
-           id: 4,
+           id: 5,
            img: 'ryuseki.JPG',
            title: '琉成工業',
            info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
@@ -72,8 +82,8 @@ export const projectsData = [
            // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
          },
          {
-           id: 5,
-           img: 'barsmile_logo.jpeg',
+           id: 6,
+           img: 'barsmile_logo.jpg',
            title: 'Bar Smile',
            info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
            info2: '',
