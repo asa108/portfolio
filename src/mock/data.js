@@ -18,11 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'portfolio.jpg',
-  paragraphOne: '沖縄生まれ沖縄育ちのAsaneです。',
-  paragraphTwo:
-    'プログラミングスクールで基礎を学習後、2019年12月からVR・ARを用いたwebサービス開発会社で働きはじめてちょうど１年が経ちました。現在も働かせて頂いてます。',
-  paragraphThree:
-    '仕事内容は、HTML CSSを使ったサイトのスタイル修正、React.js または Vue.jsを利用したwebサービスのバグ修正・スタイル修正、インスタグラム運用、機械学習になります。',
+  paragraphOne: 'Welcome to my portfolio.',
+  paragraphTwo: "I'm Asane Yara",
+  paragraphThree: 'Here is what I have done',
   paragraphFour:
     '2021年4月に、アメリカへ行く予定で、リモートで働かせていただける企業様を探しています。その他仕事の依頼もお待ちしております。',
   paragraphFive: '使用可能な言語 : HTML / CSS / Java Script / React.js / Vue.js',
