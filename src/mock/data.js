@@ -47,7 +47,7 @@ export const projectsData = [
   {
     id: 2,
     img: 'work1.png',
-    title: 'EC site Crown Clothing',
+    title: 'Crown Clothing',
     info: 'React.js / Redux / firebase / stripe / Responsive / Web Development',
     info2: '',
     url: 'https://admiring-northcutt-c8f1f2.netlify.app',
