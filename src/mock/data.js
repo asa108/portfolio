@@ -86,7 +86,7 @@ export const projectsData = [
   {
     id: 6,
     img: 'barsmile.jpg',
-    title: 'Konron Acupuncture',
+    title: 'Bar Smile',
     info: 'Studio Design / Web Design / Responsive / Animation / Web Development',
     info2: '',
     url: 'https://barsmile.studio.site',
