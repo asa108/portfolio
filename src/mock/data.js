@@ -22,13 +22,14 @@ export const aboutData = {
     "I'm a Web developer from Okinawa Japan with 1 year of experience in designing and developing user interface, testing, debugging. ",
   paragraphTwo:
     "I'm currentley living in Columbia South Carolina and working BrandBuddyz LLC which located in Japan.",
-  paragraphThree: 'In my spare time I like building my own products. Love my cats and traveling!',
+  paragraphThree:
+    "I love spending time on fixing little details and optimizing web apps. Also I like working in a team, you'll learn faster and much more. As the saying goes: 'two heads are better than one'.",
   //  paragraphFour:
   //    '2021年4月に、アメリカへ行く予定で、リモートで働かせていただける企業様を探しています。その他仕事の依頼もお待ちしております。',
   //  paragraphFive: '使用可能な言語 : HTML / CSS / Java Script / React.js / Vue.js',
   //  paragraphSix:
   //    'その他 : Github / Photoshop / illustrator / Adobe XD / 英語訳・和訳 / 英会話 / 動画編集 / SNS運用 / アパレルブランド運営(ECサイト運営)',
-  // resume: 'https://www.resumemaker.online/es.php',
+  resume: 'https://drive.google.com/file/d/1cOQSrgfbM0vTJ9As3Nnbb0hTtwtD5hdH/view?usp=sharing',
   // if no resume, the button will not show up
 };
 
