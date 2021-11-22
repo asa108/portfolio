@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     "I'm a Web Developer & Creative Lead from Okinawa Japan. I'm currentley living in Columbia South Carolina and working BrandBuddyz LLC which located in Japan.",
   paragraphTwo: 'In my spare time I like building my own products. ',
-  paragraphThree: 'Love my cats and going travel.',
+  paragraphThree: 'Love my cats and traveling.',
   //  paragraphFour:
   //    '2021年4月に、アメリカへ行く予定で、リモートで働かせていただける企業様を探しています。その他仕事の依頼もお待ちしております。',
   //  paragraphFive: '使用可能な言語 : HTML / CSS / Java Script / React.js / Vue.js',
@@ -98,7 +98,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: "If you have request or question, don't hesitate to contact! I'll get back within 1-2 days.",
+  cta:
+    "If you have any request or question, don't hesitate to contact me! I'll get back within 1-2 days.",
   btn: 'Contact',
   email: 'asanebradley@gmail.com',
 };
