@@ -16,7 +16,7 @@ const Contact = () => {
           <div className="contact-wrapper">
             <p className="contact-wrapper__text">
               {cta ||
-                'webサイト制作、英訳・和訳、動画編集、その他の依頼を承っています。下記よりお問い合わせください。 '}
+                "If you have request or question, don't hesitate to contact! I'll get back within 1-2 days."}
             </p>
             <a
               target="_blank"
@@ -24,7 +24,7 @@ const Contact = () => {
               className="cta-btn cta-btn--resume"
               href={email ? `mailto:${email}` : ''}
             >
-              {btn || 'お問い合わせ'}
+              {btn || 'Contact'}
             </a>
           </div>
         </Fade>

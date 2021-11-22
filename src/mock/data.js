@@ -18,15 +18,16 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'portfolio.jpg',
-  paragraphOne: 'Welcome to my portfolio.',
-  paragraphTwo: "I'm Asane Yara",
-  paragraphThree: 'Here is what I have done',
-  paragraphFour:
-    '2021年4月に、アメリカへ行く予定で、リモートで働かせていただける企業様を探しています。その他仕事の依頼もお待ちしております。',
-  paragraphFive: '使用可能な言語 : HTML / CSS / Java Script / React.js / Vue.js',
-  paragraphSix:
-    'その他 : Github / Photoshop / illustrator / Adobe XD / 英語訳・和訳 / 英会話 / 動画編集 / SNS運用 / アパレルブランド運営(ECサイト運営)',
-  // resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphOne:
+    "I'm a Web Developer & Creative Lead from Okinawa Japan. I'm currentley living in Columbia South Carolina and working BrandBuddyz LLC which located in Japan.",
+  paragraphTwo: 'In my spare time I like building my own products. ',
+  paragraphThree: 'Love my cats and going travel.',
+  //  paragraphFour:
+  //    '2021年4月に、アメリカへ行く予定で、リモートで働かせていただける企業様を探しています。その他仕事の依頼もお待ちしております。',
+  //  paragraphFive: '使用可能な言語 : HTML / CSS / Java Script / React.js / Vue.js',
+  //  paragraphSix:
+  //    'その他 : Github / Photoshop / illustrator / Adobe XD / 英語訳・和訳 / 英会話 / 動画編集 / SNS運用 / アパレルブランド運営(ECサイト運営)',
+  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -35,17 +36,18 @@ export const projectsData = [
     id: 1,
     img: 'dj-events.jpg',
     title: 'DJ EVENTS',
-    info: 'React.js / Next.js / contextAPI / Strapi / Cloudinary / heroku / Vercel',
+    info:
+      'React.js / Next.js / contextAPI / Strapi / Cloudinary / heroku / Vercel/ Web Development',
     info2: '',
     url: 'https://djeventproject.vercel.app',
-    repo: 'https://github.com/asa108/crown-clothing',
+    repo: 'https://github.com/asa108/dj-events',
     // if no repo, the button will not show up
   },
   {
     id: 2,
     img: 'work1.png',
     title: 'EC site Crown Clothing',
-    info: 'React.js / Redux / firebase / stripe / レスポンシブ',
+    info: 'React.js / Redux / firebase / stripe / Responsive / Web Development',
     info2: '',
     url: 'https://admiring-northcutt-c8f1f2.netlify.app',
     repo: 'https://github.com/asa108/crown-clothing',
@@ -53,57 +55,51 @@ export const projectsData = [
   },
   {
     id: 3,
-    img: 'getoff.jpg',
-    title: '退勤時間がわかるアプリ',
-    info: 'React.js / ReactUi / レスポンシブ',
+    img: 'github-finder.jpg',
+    title: 'Github Finder',
+    info: 'React.js / Redux / Web Development',
     info2: '',
-    url: 'https://clever-gates-c16679.netlify.app/',
-    repo: 'https://github.com/asa108/work-time',
+    url: 'https://friendly-booth-cb2466.netlify.app',
+    repo: 'https://github.com/asa108/github-finder',
     // if no repo, the button will not show up
   },
   {
     id: 4,
-    img: 'misaki.jpg',
-    title: '美崎牛 高原店',
-    info: 'レスポンシブ / NoCode / 写真・動画は作成してません',
+    img: 'konron.jpg',
+    title: 'Konron Acupuncture',
+    info: 'Wix / Web Design / Responsive / Animation / Web Development',
     info2: '',
-    url: 'https://misakigyutakahara.studio.site',
-    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://www.konron-clinic.com',
+    repo: '',
+    // if no repo, the button will not show up
   },
   {
     id: 5,
-    img: 'churahime_logo.JPG',
-    title: '美ら姫',
-    info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
+    img: 'churasai.jpg',
+    title: 'Churasai',
+    info: 'Shopify / Responsive / Web Development',
     info2: '',
-    url: 'https://okinawaizakayachurahime.studio.site',
-    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://churasai.com',
+    repo: '',
+    // if no repo, the button will not show up
   },
   {
     id: 6,
-    img: 'ryuseki.JPG',
-    title: '琉成工業',
-    info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
-    info2: '',
-    url: 'https://ryuseikougyo.studio.site',
-    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: 7,
-    img: 'barsmile_logo.jpg',
-    title: 'Bar Smile',
-    info: 'レスポンシブ対応 / NoCode / 写真・動画は作成してません',
+    img: 'barsmile.jpg',
+    title: 'Konron Acupuncture',
+    info: 'Studio Design / Web Design / Responsive / Animation / Web Development',
     info2: '',
     url: 'https://barsmile.studio.site',
-    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '',
+    // if no repo, the button will not show up
   },
 ];
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: 'yaradayo317@gmail.com',
+  cta: "If you have request or question, don't hesitate to contact! I'll get back within 1-2 days.",
+  btn: 'Contact',
+  email: 'asanebradley@gmail.com',
 };
 
 // FOOTER DATA
