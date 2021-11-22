@@ -52,7 +52,7 @@ const Projects = () => {
                         className="cta-btn cta-btn--hero"
                         href={url || '#!'}
                       >
-                        SEE MORE
+                        Visit site
                       </a>
 
                       {repo && (
