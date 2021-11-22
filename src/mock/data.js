@@ -19,9 +19,10 @@ export const heroData = {
 export const aboutData = {
   img: 'portfolio.jpg',
   paragraphOne:
-    "I'm a Web Developer & Creative Lead from Okinawa Japan. I'm currentley living in Columbia South Carolina and working BrandBuddyz LLC which located in Japan.",
-  paragraphTwo: 'In my spare time I like building my own products. ',
-  paragraphThree: 'Love my cats and traveling.',
+    "I'm a Web developer from Okinawa Japan with 1 year of experience in designing and developing user interface, testing, debugging. ",
+  paragraphTwo:
+    "I'm currentley living in Columbia South Carolina and working BrandBuddyz LLC which located in Japan.",
+  paragraphThree: 'In my spare time I like building my own products. Love my cats and traveling!',
   //  paragraphFour:
   //    '2021年4月に、アメリカへ行く予定で、リモートで働かせていただける企業様を探しています。その他仕事の依頼もお待ちしております。',
   //  paragraphFive: '使用可能な言語 : HTML / CSS / Java Script / React.js / Vue.js',
