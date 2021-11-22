@@ -2,14 +2,14 @@
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: "Asane's portfolio", // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
+  description: "Welcome to my site! This is Asane's portfolio", // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
+  title: "Asane's portfolio",
   name: '',
   subtitle: '',
   cta: '',
