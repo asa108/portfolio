@@ -36,6 +36,16 @@ export const aboutData = {
 // PROJECTS DATA
 export const projectsData = [
   {
+    id: 0,
+    img: 'devspace-blog.png',
+    title: 'Devspace Blog',
+    info: 'React.js / Next.js / Vercel / Web Development',
+    info2: '',
+    url: 'https://devspace-blog.vercel.app',
+    repo: 'https://github.com/asa108/devspace-blog',
+    // if no repo, the button will not show up
+  },
+  {
     id: 1,
     img: 'dj-events.jpg',
     title: 'DJ EVENTS',
