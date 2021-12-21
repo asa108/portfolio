@@ -39,7 +39,7 @@ export const projectsData = [
     id: 0,
     img: 'devspace-blog.png',
     title: 'Devspace Blog',
-    info: 'React.js / Next.js / Vercel / Web Development',
+    info: 'React.js / Next.js / Vercel / Tailwind CSS / Web Development',
     info2: '',
     url: 'https://devspace-blog.vercel.app',
     repo: 'https://github.com/asa108/devspace-blog',
@@ -50,7 +50,7 @@ export const projectsData = [
     img: 'dj-events.jpg',
     title: 'DJ EVENTS',
     info:
-      'React.js / Next.js / contextAPI / Strapi / Cloudinary / heroku / Vercel/ Web Development',
+      'React.js / Next.js / Tailwind CSS / contextAPI / Strapi / Cloudinary / heroku / Vercel/ Web Development',
     info2: '',
     url: 'https://djeventproject.vercel.app',
     repo: 'https://github.com/asa108/dj-events',
