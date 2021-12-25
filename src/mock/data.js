@@ -50,7 +50,7 @@ export const projectsData = [
     img: 'dj-events.jpg',
     title: 'DJ EVENTS',
     info:
-      'React.js / Next.js / Tailwind CSS / contextAPI / Strapi / Cloudinary / heroku / Vercel/ Web Development',
+      'React.js / Next.js / contextAPI / Strapi / Cloudinary / heroku / Vercel/ Web Development',
     info2: '',
     url: 'https://djeventproject.vercel.app',
     repo: 'https://github.com/asa108/dj-events',
