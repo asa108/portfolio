@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: "Asane's portfolio",
+  title: '',
   name: '',
   subtitle: '',
   cta: '',
