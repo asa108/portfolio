@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     "I'm a Web developer from Okinawa Japan with 1 year of experience in designing and developing user interface, testing, debugging.",
   paragraphTwo:
-    "I'm currently living in Columbia, South Carolina and working at BrandBuddyz LLC which is located in Japan.",
+    'I currently live in Columbia, South Carolina and working at BrandBuddyz LLC which is located in Japan.',
   paragraphThree:
     "I love spending time on fixing little details and optimizing web apps. Also I like working in a team, you'll learn faster and much more. As the saying goes: 'two heads are better than one'.",
   //  paragraphFour:
