@@ -17,6 +17,10 @@ export default () => {
         <html lang={lang || 'en'} />
         <meta name="description" content={description || 'Welcome to my site!'} />
         <meta property="og:image" content={socialBanner} />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://asane.netlify.app" />
+        <meta property="og:updated_time" content="2022-02-12" />
       </Helmet>
       <App />
     </>
