@@ -29,7 +29,7 @@ export const aboutData = {
   //  paragraphFive: '使用可能な言語 : HTML / CSS / Java Script / React.js / Vue.js',
   //  paragraphSix:
   //    'その他 : Github / Photoshop / illustrator / Adobe XD / 英語訳・和訳 / 英会話 / 動画編集 / SNS運用 / アパレルブランド運営(ECサイト運営)',
-  resume: 'https://drive.google.com/file/d/1cHaDKu4-XpvOQJcJQssgU6IjW5-bN8Vf/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1ns8blNG_Nevkpi1m6vrLbr4qsfexlOcc/view?usp=sharing',
   // if no resume, the button will not show up
 };
 
