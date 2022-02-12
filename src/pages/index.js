@@ -4,7 +4,7 @@ import App from '../components/App';
 import { headData } from '../mock/data';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../style/main.scss';
-import socialBanner from '../images/barsmile.jpg';
+import socialBanner from '../images/ogp-portfolio.jpg';
 
 export default () => {
   const { title, lang, description } = headData;
