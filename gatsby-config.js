@@ -26,7 +26,7 @@ module.exports = {
         short_name: `Asane's portfolio`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#02aab0`,
+        theme_color: `#CA997E`,
         display: `standalone`,
         icon: 'src/images/fav.png',
       },
