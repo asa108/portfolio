@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo:
     'I moved to the US in May 2021 right after I graduated the university. I’m currently living in South Carolina but trying to move to Florida soon!',
   paragraphThree:
-    'I love spending time developing my own projects, learning new technology, and playing with my cats🐈🐈‍⬛',
+    'I love spending time developing my own projects, learning new technology, and playing with my cats🐈🐈‍⬛.',
   //  paragraphFour:
   //    '2021年4月に、アメリカへ行く予定で、リモートで働かせていただける企業様を探しています。その他仕事の依頼もお待ちしております。',
   //  paragraphFive: '使用可能な言語 : HTML / CSS / Java Script / React.js / Vue.js',
@@ -37,17 +37,27 @@ export const projectsData = [
   {
     id: 0,
     img: 'flashcard.jpg',
-    title: 'Flash card for language learner',
-    info:
-      'React.js / Next.js / contextAPI / Strapi / Cloudinary / heroku / Vercel / Web Development',
+    title: 'Flash card for a language learner',
+    info: 'React.js / Next.js / contextAPI / Strapi / heroku / Vercel / Web Development',
     info2:
-      'This is an app for people who want to learn a new language! The beta version is coming soon. So excited to release😊',
-    url: '',
-    repo: '',
+      "This is an app for people who want to learn a new language! The beta version just came out. I'm constantly adding new features!😊",
+    url: 'https://flashcardfrontend.vercel.app/flashcards/sample',
+    repo: 'https://github.com/asa108/flashcard-frontend',
+    // if no repo, the button will not show up
+  },
+
+  {
+    id: 3,
+    img: 'devspace-blog.jpg',
+    title: 'Devspace Blog',
+    info: 'React.js / Next.js / Vercel / Tailwind CSS / Web Development / Mobile Responsive ',
+    info2: 'Write blogs easily with markdown files!',
+    url: 'https://devspace-blog.vercel.app',
+    repo: 'https://github.com/asa108/devspace-blog',
     // if no repo, the button will not show up
   },
   {
-    id: 1,
+    id: 2,
     img: 'dj-events.jpg',
     title: 'DJ EVENTS',
     info:
@@ -57,17 +67,6 @@ export const projectsData = [
     repo: 'https://github.com/asa108/dj-events',
     // if no repo, the button will not show up
   },
-  {
-    id: 2,
-    img: 'devspace-blog.jpg',
-    title: 'Devspace Blog',
-    info: 'React.js / Next.js / Vercel / Tailwind CSS / Web Development / Mobile Responsive ',
-    info2: 'Write blogs easily with markdown files!',
-    url: 'https://devspace-blog.vercel.app',
-    repo: 'https://github.com/asa108/devspace-blog',
-    // if no repo, the button will not show up
-  },
-
   {
     id: 3,
     img: 'work1.png',
