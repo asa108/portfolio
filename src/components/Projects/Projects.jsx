@@ -27,7 +27,7 @@ const Projects = () => {
       <Container>
         <div className="project-wrapper">
           <Title title="WORK" />
-          {projects.map((project) => {
+          {projects.reverse().map((project) => {
             const { title, info, info2, url, repo, img, id } = project;
 
             return (
