@@ -97,7 +97,8 @@ export const projectsData = [
       'The 911 Text App is designed to provide users with quick and accurate information about whether they can use text messaging to contact 911 emergency services based on their zip code.',
     info3: 'Visit my detailed blog post: Learn More about Text for Help 911.',
     url: 'https://911text.meteorapp.com/',
-    blogUrl: 'https://911text.meteorapp.com/',
+    blogUrl:
+      'https://lilybrad.medium.com/text-for-help-911-app-a-quick-way-to-check-if-you-can-text-911-98193d760d53',
     repo: '',
     // if no repo, the button will not show up
   },
