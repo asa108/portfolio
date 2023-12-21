@@ -1,4 +1,4 @@
-// import { nanoid } from 'nanoid';
+import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
@@ -115,6 +115,16 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
+    {
+      id: nanoid(),
+      name: 'linkedin',
+      url: 'https://www.linkedin.com/in/asaneyara/',
+    },
+    {
+      id: nanoid(),
+      name: 'github',
+      url: 'https://github.com/asa108',
+    },
     // {
     //   id: nanoid(),
     //   name: 'instagram',
@@ -123,16 +133,6 @@ export const footerData = {
     // {
     //   id: nanoid(),
     //   name: 'codepen',
-    //   url: '',
-    // },
-    // {
-    //   id: nanoid(),
-    //   name: 'linkedin',
-    //   url: '',
-    // },
-    // {
-    //   id: nanoid(),
-    //   name: 'github',
     //   url: '',
     // },
   ],
