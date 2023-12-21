@@ -95,7 +95,9 @@ export const projectsData = [
     info: 'Reactjs / meteor.js / MongoDB / MUI / styled-components',
     info2:
       'The 911 Text App is designed to provide users with quick and accurate information about whether they can use text messaging to contact 911 emergency services based on their zip code.',
+    info3: 'Visit my detailed blog post: Learn More about Text for Help 911.',
     url: 'https://911text.meteorapp.com/',
+    blogUrl: 'https://911text.meteorapp.com/',
     repo: '',
     // if no repo, the button will not show up
   },

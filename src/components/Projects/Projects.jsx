@@ -28,7 +28,7 @@ const Projects = () => {
         <div className="project-wrapper">
           <Title title="WORK" />
           {projects.reverse().map((project) => {
-            const { title, info, info2, url, repo, img, id } = project;
+            const { title, info, info2, info3, url, blogUrl, repo, img, id } = project;
 
             return (
               <Row key={id}>
@@ -45,6 +45,7 @@ const Projects = () => {
                       <div>
                         <p>{info || ''}</p>
                         <p className="mb-4">{info2 || ''}</p>
+                        <p className="mb-4">{info3 || ''}</p>
                       </div>
                       <a
                         target="_blank"
@@ -54,7 +55,16 @@ const Projects = () => {
                       >
                         Visit site
                       </a>
-
+                      {blogUrl && (
+                        <a
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="cta-btn text-color-main"
+                          href={blogUrl}
+                        >
+                          Blog post
+                        </a>
+                      )}
                       {repo && (
                         <a
                           target="_blank"
