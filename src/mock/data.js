@@ -109,7 +109,7 @@ export const contactData = {
   cta:
     "If you have any request or question, don't hesitate to contact me! I'll get back within 1-2 days.",
   btn: 'Contact',
-  email: 'asanebradley@gmail.com',
+  email: 'yara.backham@gmail.com',
 };
 
 // FOOTER DATA
